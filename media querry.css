@@ -1,0 +1,129 @@
+@media only screen and (min-width: 1025px) {
+}
+
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+}
+
+
+
+@media only screen and (max-width: 480px) {
+.first-section{
+    display: flex;
+    justify-content:center;
+    font-size: 13px;
+}
+
+.MA{
+    font-size: 13px;
+}
+
+.first-section{
+    display:block;
+}
+
+.align-name{
+    font-size: 12px;
+}
+
+.pro{
+    display: block;
+    text-align: center;
+}
+
+
+.text-image-main{
+    display:block;
+    justify-items:center;
+    gap: 40px;
+    padding: 20px;
+line-height: 16px;
+}
+.right-image img{
+    width: 220px;
+    height: 250px;
+}
+.right-image{
+    padding-left: 60px;
+
+}
+
+.html,.CSS{
+    width: 360px;
+    height: 150px;
+}
+
+.Java,.tailwind{
+    width: 360px;
+    height: 150px;
+}
+
+.python,.react{
+    width: 360px;
+    height: 150px;
+}
+
+
+
+.boxes{
+    display: block; 
+}
+
+.secbox{
+    width: 270px;
+}
+
+.under1{
+    width: 250px;
+}
+
+.thirdbox,.fourthbox{
+    width: 270px;
+}
+
+.sec-boxes{
+    display: block;
+}
+
+.main-pro{
+    display: block;
+}
+.platform{
+    width: 380px;
+    height: 420px;
+    font-size: 14px;
+
+}
+.commerce{
+    width: 380px;
+    height: 180px;
+}
+
+.management,.management-sec{
+      width: 380px;
+    height: 420px;
+    font-size: 14px;
+}
+.commerce1,.commerce2{
+    width: 380px;
+    height: 180px;
+}
+
+.footer{
+    font-size: 14px;
+
+}
+.contact-cards{
+    display: block;
+    align-items: center;
+    margin-left:80px;
+    margin-right: auto;
+}
+.createdby{
+    display: flex;
+    gap: 40px;
+}
+
+
+
+}
